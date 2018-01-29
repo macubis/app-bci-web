@@ -1,0 +1,86 @@
+*{
+	margin:0;
+	padding: 0;
+	background: #FFFFF;
+}
+body{
+	background: #FFFFFF;
+	font-family: 'Open Sans', sans-serif;
+}
+.barra{
+	background: #FFFFFF;
+	border-bottom-color: #28BC40;
+	padding: 10px;
+}
+.logo-bci{
+	width: 141px ;
+	height: 51px;
+	position: relative;
+	top: 0px;
+	left: -53px;
+}
+.lupa{
+	color: #28BC40;
+	position: relative;
+	top: 6px;
+	right: -18px;
+}
+button.navbar-toggle.collapsed.barritas{
+	border-color: transparent;
+}
+.titulo{
+	padding: 10px;
+	border-bottom-color: #3333;!important
+}
+.flecha{
+	color: #28BC40;
+	padding: 10px;
+}
+.transf{
+	color: black;
+}
+.pizarra{
+	padding: 30px;
+	background-color: #FFF;
+}
+.valor{
+	color: #28BC40;
+	font-size: 40px;
+	font-weight: bolder;
+}
+.verde{
+	color: #28BC40;
+}
+.tablas{
+	font-size: 10px;
+	padding: 10px;
+}
+.origen{
+	padding: 30px;
+}
+.destinatario{
+	padding: 10px 30px 20px 30px;
+}
+.azul{
+	color: #0000FF;
+	font-size: 13px;
+}
+.nombre{
+	color: #28BC40;
+	font-size: 13px;
+}
+.banco{
+	font-size: 13px;
+}
+.detalle{
+	padding: 10px 30px 20px 30px;
+}
+.espacio{
+	font-size: 13px;
+}
+.mensaje{
+	padding: 20px 30px 20px 30px;
+}
+.mensajito{
+	font-size: 13px;
+}
